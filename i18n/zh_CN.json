@@ -1,0 +1,8 @@
+{
+  "enabled": "启用自动定位",
+  "enabledDesc": "关闭后插件不执行任何定位动作。",
+  "locateOnClick": "点击块时定位",
+  "locateOnClickDesc": "在文档正文中点击任意块时，若文件树未跟上当前文档，则执行一次定位。",
+  "loaded": "自动定位文档已启用",
+  "unloaded": "自动定位文档已停用"
+}

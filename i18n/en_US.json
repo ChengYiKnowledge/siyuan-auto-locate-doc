@@ -1,0 +1,8 @@
+{
+  "enabled": "Enable auto locate",
+  "enabledDesc": "When disabled, the plugin performs no locate action.",
+  "locateOnClick": "Locate on block click",
+  "locateOnClickDesc": "When clicking any block in a document, locate it in the file tree if the tree has not followed yet.",
+  "loaded": "Auto Locate Document is enabled",
+  "unloaded": "Auto Locate Document is disabled"
+}

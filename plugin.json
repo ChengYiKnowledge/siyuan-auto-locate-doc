@@ -1,0 +1,41 @@
+{
+  "name": "auto-locate-doc",
+  "author": "ChengYiKnowledge",
+  "url": "https://github.com/ChengYiKnowledge/siyuan-auto-locate-doc",
+  "version": "0.1.1",
+  "minAppVersion": "3.8.0",
+  "backends": [
+    "windows",
+    "linux",
+    "darwin",
+    "docker",
+    "ios",
+    "android",
+    "harmony"
+  ],
+  "frontends": [
+    "desktop"
+  ],
+  "displayName": {
+    "default": "自动定位文档",
+    "zh_CN": "自动定位文档",
+    "en_US": "Auto Locate Document"
+  },
+  "description": {
+    "default": "打开或切换文档时，在左侧文件树中自动展开并定位到当前文档；点击文档内任意块时也会自动跟随。",
+    "zh_CN": "打开或切换文档时，在左侧文件树中自动展开并定位到当前文档；点击文档内任意块时也会自动跟随。",
+    "en_US": "Automatically expand and scroll the file tree to the current document when opening or switching documents, and follow block clicks."
+  },
+  "readme": {
+    "default": "README.md"
+  },
+  "funding": {
+    "custom": []
+  },
+  "keywords": [
+    "file tree",
+    "locate",
+    "navigation",
+    "文档树"
+  ]
+}
